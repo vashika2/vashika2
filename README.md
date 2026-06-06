@@ -1,8 +1,8 @@
-## 💫 About Me:
+### 💫 About Me:
 ## Hi there, I'm Vashika Gupta 👋<br><br>🎓 AI Engineering Student at VIT Bhopal<br><br>💡 Passionate about Artificial Intelligence, Machine Learning, Cloud Computing, and Full-Stack Development.<br><br>🚀 Currently exploring:<br><br>* Data Structures & Algorithms<br>* Machine Learning and Deep Learning<br>* Computer Vision<br>* Cloud Technologies (AWS)<br>* Full-Stack Web Development<br><br>🛠️ Tech Stack:<br><br>* Languages: Java, Python, C++, SQL<br>* Web: React.js, Node.js, Express.js<br>* Database: MongoDB<br>* Cloud: AWS<br>* Tools: Git, GitHub, VS Code, Postman<br><br>📌 Featured Projects:<br><br>* PortfolioForge – AI-powered portfolio builder<br>* Face Mask Detection using Computer Vision<br><br><br>🌱 Always learning, building, and improving.<br><br>📫 Connect with me:<br><br>* GitHub: github.com/vashika2<br>* LinkedIn: linkedin.com/in/vashikaagupta<br>* Email: vashikaagupta@gmail.com<br><br>✨ "Turning ideas into impactful solutions through code."<br>
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vashika Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vashikaagupta@gmail.com) 
 
 # 💻 Tech Stack:
